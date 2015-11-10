@@ -19,6 +19,5 @@ ipython==3.2.2
 mccabe==0.3.1
 pep8==1.5.7
 pyflakes==0.8.1
-pythonselect==1.3
 
 
